@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "495801517871",
+    "firebase_url": "https://test-13aa2.firebaseio.com",
+    "project_id": "test-13aa2",
+    "storage_bucket": "test-13aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495801517871:android:c1d8227e4e6d3800",
+        "android_client_info": {
+          "package_name": "com.example.seungma.rtsptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495801517871-9pcm0be86keambg434sge00nlb59mav5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJn2dt67k6XNqdE47S-j1z8ZtKo_S011w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
